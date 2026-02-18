@@ -1,7 +1,7 @@
 # BetterLyrics.Plugins.Source.LRCLIB
 
-This repo is for releases only.
+This repo is designed to guide you to the right place to learn how to create your own lyrics source plugin.
 
-For source code, visit https://github.com/jayfunc/BetterLyrics/tree/dev/Plugins/BetterLyrics.Plugins.Source.LRCLIB.
+Since LRCLIB is included in BetterLyrics itself, no releases will be provided.
 
-You could also use the code in the link above to create your own lyrics source plugin.
+Please visit the source code here: https://github.com/jayfunc/BetterLyrics/tree/dev/Plugins/BetterLyrics.Plugins.Source.LRCLIB.
