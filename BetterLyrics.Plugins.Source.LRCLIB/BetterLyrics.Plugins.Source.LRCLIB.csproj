@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net10.0</TargetFramework>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+	  <EnableDynamicLoading>true</EnableDynamicLoading>
+	  <MeCabUseDefaultDictionary>False</MeCabUseDefaultDictionary>
+	  <Description>LRCLIB lyrics source</Description>
+	  <Version>1.0.0</Version>
+	  <Authors>jayfunc</Authors>
+	  <RepositoryUrl>https://github.com/BetterLyrics/BetterLyrics.Plugins.Source.LRCLIB</RepositoryUrl>
+	  <Copyright>Copyright © 2026 jayfunc</Copyright>
+	  <Company>$(Authors)</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BetterLyrics.Sdk" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
